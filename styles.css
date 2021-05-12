@@ -1,0 +1,14 @@
+a {
+    text-decoration: underline red;
+    color: blue;
+    cursor: pointer;
+}
+img {
+    display: none;
+}
+h1 {
+    color: crimson;
+}
+body {
+    background-color: cyan;
+}
